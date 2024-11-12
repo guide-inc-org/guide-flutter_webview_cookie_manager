@@ -29,7 +29,7 @@ android {
     namespace "io.flutter.plugins.webview_cookie_manager"
 
     defaultConfig {
-        minSdkVersion 16
+        minSdkVersion 23
     }
     lintOptions {
         disable 'InvalidPackage'
